@@ -1,0 +1,4 @@
+function concatenate(s1, s2){
+    return s1+s2;
+}
+console.log(concatenate('a', 'd'));
